@@ -416,7 +416,7 @@ class __crack__:
 			hasil(ok,cp)
 		elif yan in ('3', '03'):
 			
-			IMTIAZ_AKING('\n\tCrack Processing...\n\n');logo()
+			WAQII SARDAR ('\n\tCrack Processing...\n\n');logo()
 			with ThreadPoolExecutor(max_workers=20) as (_ngentot_gratis_):
 				for yntkts in self.id:
 					try:
